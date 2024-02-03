@@ -6,7 +6,7 @@
 
 | Lab                                                       | Colab                                            | Video                                                 |
 | :-------------------------------------------------------- | :-----------------------------------------------: | :---------------------------------------------------: |
-| **Lab Overview**                                          | [! [open-in-colab]][lab00-colab]                  | [![yt-logo]][lab-overview-video]                     |
+| **Lab Overview**                                          | [![open-in-colab]][lab00-colab]                  | [![yt-logo]][lab-overview-video]                     |
 | **Lab 01: Deep Neural Networks in PyTorch**               | [![open-in-colab]][lab01-colab]                  | [![yt-logo]][lab-01-video]                           |
 | **Lab 02a: PyTorch Lightning**                            | [![open-in-colab]][lab02a-colab]                 | [![yt-logo]][lab-02-video]                           |
 | **Lab 02b: Training a CNN on Synthetic Handwriting Data** | [![open-in-colab]][lab02b-colab]                 | [![yt-logo]][lab-02-video]                           |
