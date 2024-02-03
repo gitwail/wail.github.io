@@ -1,47 +1,5 @@
-title: My Portfolio
-email: elbaniwail@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is my portfolio where I showcase my work, projects, and blog posts.
-baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
-theme: minima # or any other theme you might be using
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list to override the default setting.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
-# If you're using collections to organize your portfolio projects or posts
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-  blog:
-    output: true
-    permalink: /blog/:year/:month/:day/:title/
-
-# Social media configuration (optional)
-twitter_username: yourusername
-github_username:  Wail El bani
-linkedin_username: wail-elbani-47b41476
-
-# Plugins (if you need any specific functionality)
-# This is where you can add various Jekyll plugins such as jekyll-paginate, jekyll-sitemap, etc.
-
-# SEO settings (optional)
-# If you're using `jekyll-seo-tag` plugin, you can include author and description tags here or in front matter of your posts.
-
-# Comments (optional)
-# To add comments, you might integrate Disqus or a similar service by adding relevant configurations here.
+title: Wail El bani
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
