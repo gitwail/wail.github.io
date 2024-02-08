@@ -2,7 +2,7 @@
 
 | Lab                                                       | Colab                                            |
 | :-------------------------------------------------------- | :-----------------------------------------------:| 
-| ** Lab 1: Linear Regression**               | [![open-in-colab]][lab01-colab]                  | 
+| **Lab 1: Linear Regression**               | [![open-in-colab]][lab01-colab]                  | 
             
 
 [lab01-colab]: https://colab.research.google.com/drive/1Hnwbq_JciBVurNpLR9Ldbk1lZMLUeFM8?usp=sharing
