@@ -1,11 +1,11 @@
-## Data Science
+## Deep Learning
 
 | Labs                                                       | Colab                                            |
 | :-------------------------------------------------------- | :-----------------------------------------------:| 
-| **Lab 1: Linear Regression**               | [![open-in-colab]][lab01-colab]                  | 
+| **Lab 1: AutoEncoder with Dense and CNN's layers on cifar10 **               | [![open-in-colab]][lab01-colab]                  | 
             
 
-[lab01-colab]: https://colab.research.google.com/drive/1Hnwbq_JciBVurNpLR9Ldbk1lZMLUeFM8?usp=sharing
+[lab01-colab]: https://colab.research.google.com/drive/1edA6JZiwfFA9xILRVy2tEPjlsFxXNMFx?usp=sharing
 
 [lab02a-colab]: https://fsdl.me/lab02a-colab
 [lab02b-colab]: https://fsdl.me/lab02b-colab

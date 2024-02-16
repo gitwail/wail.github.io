@@ -4,7 +4,7 @@
 
 # Project and Labs 
 - [DataScience](DataScience.md)
-- [Deep Learning](DataScience.md)
+- [Deep Learning](DeepLearning.md)
 - [Reinforcement Learning](DataScience.md)
 - [Data engineering](DataScience.md)
 - [Courses & Certification](DataScience.md)
