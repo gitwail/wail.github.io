@@ -3,7 +3,7 @@
 | Labs                                                       | Colab                                            |
 | :-------------------------------------------------------- | :-----------------------------------------------:| 
 | **Lab: AutoEncoder with Dense and CNN's layers on cifar10**               | [![open-in-colab]][lab01-colab]                  | 
-| **Lab: Multi layer perceptron from scratch with torch.tensor **               | [![open-in-colab]][lab02-colab]                  | 
+| **Lab: Multi layer perceptron from scratch with torch.tensor**               | [![open-in-colab]][lab02-colab]                  | 
             
 
 
