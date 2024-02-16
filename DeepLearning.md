@@ -2,7 +2,7 @@
 
 | Labs                                                       | Colab                                            |
 | :-------------------------------------------------------- | :-----------------------------------------------:| 
-| **Lab 1: AutoEncoder with Dense and CNN's layers on cifar10 **               | [![open-in-colab]][lab01-colab]                  | 
+| **Lab 1: AutoEncoder with Dense and CNN's layers on cifar10**               | [![open-in-colab]][lab01-colab]                  | 
             
 
 [lab01-colab]: https://colab.research.google.com/drive/1edA6JZiwfFA9xILRVy2tEPjlsFxXNMFx?usp=sharing
