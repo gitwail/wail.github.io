@@ -6,10 +6,10 @@
 | **Lab: Multi layer perceptron from scratch with torch.tensor **               | [![open-in-colab]][lab02-colab]                  | 
             
 
-[lab01-colab]: https://colab.research.google.com/drive/1edA6JZiwfFA9xILRVy2tEPjlsFxXNMFx?usp=sharing
 
-[lab02-colab]: https://colab.research.google.com/drive/17wapZj7EEDMnOXkx2bHGJUNqTBaSMzSb
-[lab02b-colab]: https://fsdl.me/lab02b-colab
+[lab01-colab]: https://colab.research.google.com/drive/1edA6JZiwfFA9xILRVy2tEPjlsFxXNMFx?usp=sharing
+[lab02-colab]: https://colab.research.google.com/drive/1JD_vlo1h4EsT4Mvpc0UsI4XnLCFUFrWZ?usp=sharing
+
 [lab03-colab]: https://fsdl.me/lab03-colab
 [lab04-colab]: https://fsdl.me/lab04-colab
 [lab05-colab]: https://fsdl.me/lab05-colab
