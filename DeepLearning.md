@@ -3,12 +3,12 @@
 | Labs                                                       | Colab                                            |
 | :-------------------------------------------------------- | :-----------------------------------------------:| 
 | **Lab: AutoEncoder with Dense and CNN's layers on cifar10**               | [![open-in-colab]][lab01-colab]                  | 
-| **Lab: Logistic regression from scratch**               | [![open-in-colab]][lab02-colab]                  | 
+| **Lab: Multi layer perceptron from scratch with torch.tensor**               | [![open-in-colab]][lab02-colab]                  | 
             
 
 [lab01-colab]: https://colab.research.google.com/drive/1edA6JZiwfFA9xILRVy2tEPjlsFxXNMFx?usp=sharing
 
-[lab02a-colab]: https://drive.google.com/file/d/17wapZj7EEDMnOXkx2bHGJUNqTBaSMzSb/view?usp=sharing
+[lab02-colab]: https://drive.google.com/file/d/17wapZj7EEDMnOXkx2bHGJUNqTBaSMzSb/view?usp=sharing
 [lab02b-colab]: https://fsdl.me/lab02b-colab
 [lab03-colab]: https://fsdl.me/lab03-colab
 [lab04-colab]: https://fsdl.me/lab04-colab
