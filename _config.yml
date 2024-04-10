@@ -1,5 +1,5 @@
 title: Wail Elbani,Ph.D
 logo: /assets/img/bani.png
 #description: text below image
-show_downloads: true
+show_downloads: False
 theme: jekyll-theme-minimal
