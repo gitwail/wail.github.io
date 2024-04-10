@@ -2,14 +2,9 @@
 
 | Implementation                                                       | Colab                                            |
 | :-------------------------------------------------------- | :-----------------------------------------------:| 
-<<<<<<< HEAD
 | **AutoEncoder with Dense and CNN's layers on cifar10**               | [![open-in-colab]][lab01-colab]                  | 
-| **Multi layer perceptron from scratch with torch.tensor **               | [![open-in-colab]][lab02-colab]                  | 
+| **Multi layer perceptron from scratch with torch.tensor**               | [![open-in-colab]][lab02-colab]                  | 
 | **Variational Autoencoder from scratch on faces **               | [![open-in-colab]][lab03-colab]                  | 
-=======
-| **Lab: AutoEncoder with Dense and CNN's layers on cifar10**               | [![open-in-colab]][lab01-colab]                  | 
-| **Lab: Multi layer perceptron from scratch with torch.tensor**               | [![open-in-colab]][lab02-colab]                  | 
->>>>>>> 8e8c1cf2fe334fa4c8a86fa4a81dd252929f1627
             
 
 
