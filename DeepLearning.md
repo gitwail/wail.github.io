@@ -5,7 +5,7 @@
 | **AutoEncoder with Dense and CNN's layers on cifar10**               | [![open-in-colab]][lab01-colab]                  | 
 | **Multi layer perceptron from scratch with torch.tensor**               | [![open-in-colab]][lab02-colab]                  | 
 | **Variational Autoencoder from scratch on MNIST**               | [![open-in-colab]][lab03-colab]                  | 
-            
+     
 
 
 [lab01-colab]: https://colab.research.google.com/drive/1edA6JZiwfFA9xILRVy2tEPjlsFxXNMFx?usp=sharing
